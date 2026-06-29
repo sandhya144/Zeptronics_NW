@@ -12,10 +12,9 @@ import {
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Eye, EyeOff, Loader2 } from "lucide-react";
-import google from "../assets/google.webp";
+import google from "../assets/google.png";
 import { Link, useNavigate } from "react-router-dom";
 import axios from "axios";
-// import toast  from "sonner";
 import { toast } from "sonner";
 
 const signup = () => {
