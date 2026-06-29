@@ -1,7 +1,6 @@
 # ⚡ Zeptronics
 
-
-
+*🛒 A specialized full-stack electronics marketplace — not just another generic store.*
 
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -25,7 +24,6 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat)
 
 
-*🛒 A specialized full-stack electronics marketplace — not just another generic store.*
 
 **[🚀 Get Started](#-installation)** · **[✨ Features](#-features)** · **[🏗️ Architecture](#%EF%B8%8F-architecture)** · **[📡 API Reference](#-api-reference)** · **[🤝 Contributing](#-contributing)**
 
