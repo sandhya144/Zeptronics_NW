@@ -10,23 +10,17 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=flat&logo=shadcnui&logoColor=white)
-
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)](https://expressjs.com/)
-
 ![Multer](https://img.shields.io/badge/Multer-FF6F00?style=flat)
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-30B980?style=flat&logo=maildotru&logoColor=white)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
-
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![bcrypt](https://img.shields.io/badge/bcrypt-3382CC?style=flat)
 ![OTP](https://img.shields.io/badge/OTP-FF9800?style=flat)
-
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0D6EFD?style=flat&logo=razorpay&logoColor=white)
-
 ![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat)
 
